@@ -1,0 +1,54 @@
+.H3{
+    color: RED;
+    text-decoration:underline ;
+    text-decoration-color: grey;
+}
+.left{
+    float: right;
+    padding: 20px;
+}
+.img{
+    padding: 20px;
+}
+.img2{
+    padding: 20px;
+    
+}
+.h3{
+    color: brown;
+}
+.fon{
+    color: brown;
+}
+
+/* form portion */
+.form-flex{
+    
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+
+
+}
+.h1-h2{
+    display: flex;
+   flex-direction: row;
+   gap:2rem;
+   align-items: flex-end
+}
+.h1-h2 h5{
+    border:2px solid black;
+    background-color: red;
+}
+.flex-right{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 349px;
+    width: 501px;
+    padding: 1rem;
+    background-image: url("images/form_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;  
+}

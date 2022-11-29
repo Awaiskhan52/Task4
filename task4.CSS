@@ -1,17 +1,15 @@
-.H3{
-    color: RED;
-    text-decoration:underline ;
-    text-decoration-color: grey;
-}
-.left{
+
+
+/* .left{
     float: right;
     padding: 20px;
-}
+} */
 .img{
     padding: 20px;
 }
 .img2{
-    padding: 20px;
+    margin-top: 20px;
+
     
 }
 .h3{
@@ -45,10 +43,67 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    height: 349px;
-    width: 501px;
-    padding: 1rem;
+    height: 340px;
+    width: 505px;
+    padding-bottom:1px;
+    
     background-image: url("images/form_bg.jpg");
     background-repeat: no-repeat;
-    background-size: cover;  
+    background-size: cover;
+    margin-top: 20px;  
+
 }
+.capital{ 
+    color: blueviolet;
+    font-weight: bold;
+}
+/* .xyz{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    }  */
+/* .pics{
+    display: flex;
+    flex-direction: row;
+    
+} */
+/* .abc{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.xyz{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.pics{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 300px;
+    }
+    .content{
+        display: flex;
+        flex-direction: row;
+    }
+    .mcm{
+        display: flex;
+        flex-direction:row ;
+    } */
+    /* .abc{
+        display: flex;
+        flex-direction: row;
+    }
+    .xyz{
+        border: 2px black solid;
+    } */
+    /* .ABC{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+    } */
+    .h1{
+        background-color: grey;
+    }

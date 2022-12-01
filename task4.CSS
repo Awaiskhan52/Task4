@@ -1,10 +1,31 @@
-
+.header{
+    height: 400px;
+    margin: 4px;
+    width: 700px;
+    background-image: url("images/form_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  .question{
+    font-size: 20px;
+    font-weight:30px;
+    float: left;
+    background-color: brown;
+  
+  }
+  .img{
+  transform: rotate(13deg);
+  }
+  .img1{
+    padding: 20px;
+  }
 
 /* .left{
     float: right;
     padding: 20px;
 } */
-.img{
+/* .img{
     padding: 20px;
 }
 .img2{
@@ -14,34 +35,30 @@
 }
 .h3{
     color: brown;
-}
+} */
 .fon{
     color: brown;
 }
 
 /* form portion */
-.form-flex{
+/* .form-flex{
     
    display: flex;
    flex-direction: row;
    justify-content: space-around;
 
 
-}
+} */
 .h1-h2{
     display: flex;
    flex-direction: row;
    gap:2rem;
    align-items: flex-end
 }
-.h1-h2 h5{
+/* .h1-h2 h5{
     border:2px solid black;
     background-color: red;
-}
-.flex-right{
-   
-    display: flex;
-    flex-direction: column;
+  flex-direction: column;
     align-items: flex-start;
     height: 340px;
     width: 505px;
@@ -52,16 +69,20 @@
     background-size: cover;
     margin-top: 20px;  
 
-}
+} */
+/* .flex-right{
+   
+    display: flex;
+  
 .capital{ 
     color: blueviolet;
     font-weight: bold;
 }
-/* .xyz{
-    border: 2px solid black;
+/* .xyz{ */
+    /* border: 2px solid black;
     display: flex;
     flex-direction: column;
-    }  */
+    }  */ */
 /* .pics{
     display: flex;
     flex-direction: row;
